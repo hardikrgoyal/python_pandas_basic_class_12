@@ -4,3 +4,5 @@ it involves the use of 3 libraries :
 1)numpy
 2)panda
 3)matplotlib.pyplot
+
+Contributor: Anant Ray Shah: anantrayashishshah@gmail.com
